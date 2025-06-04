@@ -16,4 +16,8 @@ Exploring NYC Property Sales data and looking at the relationships between diffe
 ## Dataset
 - [NYC Property Sales on Kaggle](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
 
+---
+
+Feel free to fork or use for your own learning purposes!
+
  
