@@ -1,5 +1,5 @@
 # NYC-Property-Sales-Analysis
-Exploring NYC Property Sales data and looking at the relationships between different features using Pandas and Matplotlib.
+Exploring NYC Property Sales data and looking at the relationships between different features using Pandas and Matplotlib. Additionally, there is a linear regression model built from scratch.
 
 ## Features
 - Cleaned and filtered out unusable data (ex. removing null values and outliers)
@@ -8,6 +8,7 @@ Exploring NYC Property Sales data and looking at the relationships between diffe
   - Neighborhood and Median Sale Price
   - Square Feet and Median Sale Price
 - Feature Engineered new columns (Price Per Square Feet)
+- Linear Regression ML model predicted sale price based on square feet.
 
 ## Files
 - `NYCHousingProject.ipynb`: Jupyter notebook containing all the code
